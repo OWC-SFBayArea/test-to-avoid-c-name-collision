@@ -1,1 +1,4 @@
 file-to-ignore.txt
+
+[core]
+    excludesfile = file-to-exclude.txt
